@@ -1,0 +1,17 @@
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\bin\Debug\net8.0-windows\ShapesDrawing_v3.exe
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\bin\Debug\net8.0-windows\ShapesDrawing_v3.deps.json
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\bin\Debug\net8.0-windows\ShapesDrawing_v3.runtimeconfig.json
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\bin\Debug\net8.0-windows\ShapesDrawing_v3.dll
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\bin\Debug\net8.0-windows\ShapesDrawing_v3.pdb
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.Form1.resources
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.Form2.resources
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.csproj.GenerateResource.cache
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.AssemblyInfoInputs.cache
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.AssemblyInfo.cs
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.csproj.CoreCompileInputs.cache
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.dll
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\refint\ShapesDrawing_v3.dll
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.pdb
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ShapesDrawing_v3.genruntimeconfig.cache
+C:\Users\kenan\source\repos\ShapesDrawing_v3\ShapesDrawing_v3\obj\Debug\net8.0-windows\ref\ShapesDrawing_v3.dll
