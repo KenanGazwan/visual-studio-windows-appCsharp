@@ -1,0 +1,17 @@
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\bin\Debug\net8.0-windows\FolderVisualizer.exe
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\bin\Debug\net8.0-windows\FolderVisualizer.deps.json
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\bin\Debug\net8.0-windows\FolderVisualizer.runtimeconfig.json
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\bin\Debug\net8.0-windows\FolderVisualizer.dll
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\bin\Debug\net8.0-windows\FolderVisualizer.pdb
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.Form1.resources
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.Properties.Resources.resources
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.csproj.GenerateResource.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.AssemblyInfoInputs.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.AssemblyInfo.cs
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.dll
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\refint\FolderVisualizer.dll
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.pdb
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\FolderVisualizer.genruntimeconfig.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net8.0-windows\ref\FolderVisualizer.dll

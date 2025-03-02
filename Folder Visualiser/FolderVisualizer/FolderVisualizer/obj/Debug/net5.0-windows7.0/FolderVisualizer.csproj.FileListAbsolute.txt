@@ -1,0 +1,8 @@
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.csproj.AssemblyReference.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.Form1.resources
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.Properties.Resources.resources
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.csproj.GenerateResource.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.AssemblyInfoInputs.cache
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.AssemblyInfo.cs
+C:\Users\kenan\source\repos\FolderVisualizer\FolderVisualizer\obj\Debug\net5.0-windows7.0\FolderVisualizer.csproj.CoreCompileInputs.cache
