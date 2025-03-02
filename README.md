@@ -1,6 +1,6 @@
 # 🖥️ Visual Studio Windows Apps (C#)  
 
-📌 **Repository:** [Visual Studio Windows Apps (C#)](https://github.com/KenanGazwan/visual-studio-windows-appCsharp/tree/main)  
+📌 **Repository:** [Visual Studio Windows Apps (C#)](https://github.com/KenanKaddoura/visual-studio-windows-appCsharp/tree/main)  
 
 ## 📖 Overview  
 This repository contains two **Windows applications**, developed using **C# and Visual Studio**, as part of the **Software Design** course. Both projects focus on applying **design pattern principles**, accompanied by their **class diagrams** and implementations.  
